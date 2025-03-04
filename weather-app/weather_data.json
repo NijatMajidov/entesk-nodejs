@@ -1,0 +1,24 @@
+{
+  "city": "Baku",
+  "temperature": 7,
+  "weather_description": "Sunny",
+  "time": "2025-03-04 12:37"
+},
+{
+  "city": "Ankara",
+  "temperature": 4,
+  "weather_description": "Partly cloudy",
+  "time": "2025-03-04 11:41"
+},
+{
+  "city": "Ganja",
+  "temperature": 10,
+  "weather_description": "Partly cloudy",
+  "time": "2025-03-04 12:51"
+},
+{
+  "city": "Madrid",
+  "temperature": 9,
+  "weather_description": "Overcast",
+  "time": "2025-03-04 09:51"
+},
